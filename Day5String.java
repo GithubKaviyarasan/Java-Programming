@@ -1,4 +1,4 @@
-public class Day5StringMethods {
+public class Day5String {
     public static void main(String[] args) {
 
         String str = "  Hello Java Programming  ";
