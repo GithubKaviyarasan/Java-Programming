@@ -1,4 +1,4 @@
-public class Day7P1 {
+public class Day7RecursiveMethod {
 
     // Recursive method
     public static int sum(int n) {

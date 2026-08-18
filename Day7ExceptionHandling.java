@@ -1,4 +1,4 @@
-public class Day7P2 {
+public class Day7ExceptionHandling {
 
     public static void main(String[] args) {
 
